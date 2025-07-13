@@ -1,0 +1,19 @@
+{
+  "mainMenuTitle": "Pulpit",
+  "selectTrackTooltip": "Wybierz ścieżkę",
+  "startRecordingTooltip": "Nagrywaj",
+  "stopRecordingTooltip": "Zatrzymaj nagrywanie",
+  "playTrackTooltip": "Odtwórz ścieżkę",
+  "stopPlayingTooltip": "Zatrzymaj odtwarzanie",
+  "showTimelineTooltip": "Pokaż ścieżkę",
+  "exportTooltip": "Stwórz plik utworu",
+  "selectDirectoryTitle": "Wybierz katalog (naciśnij na jeden z plików w nim)",
+  "selectDawFileTitle": "Wybierz plik skryptu",
+  "newSourceTooltip": "Nowy plik źródłowy",
+  "selectWavFileTitle": "Wybierz plik .wav",
+  "tracksTitle": "Ścieżki",
+  "timelineTitle": "Edytuj ścieżkę",
+  "requestPermissionsTooltip": "Nie widać plików",
+  "loadProjectTooltip": "Odtwórz skrypt",
+  "saveProjectTooltip": "Zapisz skrypt"
+}

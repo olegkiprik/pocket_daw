@@ -1,0 +1,19 @@
+{
+  "mainMenuTitle": "Pocket DAW",
+  "selectTrackTooltip": "Select a track",
+  "startRecordingTooltip": "Start recording",
+  "stopRecordingTooltip": "Stop recording",
+  "playTrackTooltip": "Play the track",
+  "stopPlayingTooltip": "Stop playing",
+  "showTimelineTooltip": "Show the timeline",
+  "exportTooltip": "Export",
+  "selectDirectoryTitle": "Select a directory (click on its contents)",
+  "selectDawFileTitle": "Select a DAW project file",
+  "newSourceTooltip": "New source",
+  "selectWavFileTitle": "Select a .wav file",
+  "tracksTitle": "Tracks",
+  "timelineTitle": "Timeline (click to toggle)",
+  "requestPermissionsTooltip": "Show files",
+  "loadProjectTooltip": "Open a project",
+  "saveProjectTooltip": "Save the project"
+}
